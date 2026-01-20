@@ -24,9 +24,8 @@
 ---
 
 ### 🧑‍💼 Certifications & Learning
-- 🏅 **CompTIA Security+** *(in progress)*  
-- 🧰 **portsSwigger**: 48% Compeleted (43 Apprentice, 89 Practitioner)  
-- 🎓 **Blue Team Level 1** | **eJPT** *(next goal)*  
+- 🏅 **Cisco CyberOps Associate** *(completed)*, **eWPT** *(next goal)*  
+- 🧰 **portsSwigger**: 48% Compeleted (43 Apprentice, 89 Practitioner), **Cybertalents**: All Easy and Medium Challenges
 
 ---
 
